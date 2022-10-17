@@ -1,4 +1,4 @@
-pyrogram
+pyrogram==1.4.1
 TgCrypto
 databases[aiosqlite]
 aiosqlite[user_db]
