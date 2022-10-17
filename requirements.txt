@@ -1,5 +1,5 @@
 pyrogram==1.4.16
-TgCrypto
+TgCrypto==1.2.3
 databases[aiosqlite]
 aiosqlite[user_db]
 python-dotenv
