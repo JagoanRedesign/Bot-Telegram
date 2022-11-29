@@ -13,44 +13,44 @@
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org or @TeleORG_Bot",
-            "value": "7nnn4n1"
+            "value": "14962060"
         },
         "API_HASH": {
             "description": "Get this value from my.telegram.org or @TeleORG_Bot",
-            "value": "ef48386annnnne9e569c4a3b8"
+            "value": "b726ce690552a5707dd80294907f39e1"
         },
         "BOT_TOKEN": {
             "description": "Get this from @BotFather XD",
-            "value": "18263nnnnnnnIjl973lwcfifiLYOKwqc-HK7Lk"
+            "value": "5651030839:AAGc6KBnzYuObHsmbFPUgxFB88G7h1YndAk"
         },
         "LOG_CHANNEL": {
             "description": "Your Bot Username which you sent to @BotFather (Without [@])",
-            "value": "-10nnnnn99"
+            "value": "-1001587450261"
         },
         "FORCESUB_CHANNEL": {
             "description": "The Channel ID which will be used as Database. Example: -100123456789",
-            "value": "-100nnnnnnnnn1083"
+            "value": "-1001622611890"
         },
         "DB_CHANNEL": {
             "description": "Bot Owner UserID",
-            "value": "-1001nnnnnmmm087"
+            "value": "-1001587450261"
         },
         "BLACKLISTED_CHANNEL": {
             "description": "MongoDB Database URI for Saving UserID for Broadcast.",
-            "value": "-10nnnnnmm301073"
+            "value": "-1001879958024"
         },
         "CHANNEL_1": {
             "description": "ID of a Channel which you want to do Force Sub to use the bot. Example: -100123456789",
-            "value": "-100nnnnnmm1083"
+            "value": "-1001879958024"
         },
         "CHANNEL_2": {
             "description": "Logs Channel ID for some Tracking XD. Example: -100123456789",
-            "value": "-10011nnnnmm83",
+            "value": "-1001782660352",
             "required": false
         },
         "CHANNEL_3": {
             "description": "Banned unwanted members",
-            "value": "-1001nnnnmmm083",
+            "value": "-1001879958024",
             "required": false
         }
     },
