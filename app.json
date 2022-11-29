@@ -25,7 +25,7 @@
         },
         "LOG_CHANNEL": {
             "description": "Your Bot Username which you sent to @BotFather (Without [@])",
-            "value": "-1001587450261"
+            "value": "Botid_testing_bot"
         },
         "FORCESUB_CHANNEL": {
             "description": "The Channel ID which will be used as Database. Example: -100123456789",
@@ -33,7 +33,7 @@
         },
         "DB_CHANNEL": {
             "description": "Bot Owner UserID",
-            "value": "-1001587450261"
+            "value": "1659580762"
         },
         "BLACKLISTED_CHANNEL": {
             "description": "MongoDB Database URI for Saving UserID for Broadcast.",
