@@ -50,7 +50,7 @@
         },
         "CHANNEL_3": {
             "description": "Banned unwanted members",
-            "value": "-1001879958024",
+            "value": "",
             "required": false
         }
     },
